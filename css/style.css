@@ -59,10 +59,14 @@ ol {
     color: #434455;
 }
 
-.contacts .contacts-link:focus {
+.contacts-link{
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+.contacts-link:focus {
     color: #404BBF;
 }
-.contacts .contacts-link:hover {
+.contacts-link:hover {
     color: #404BBF;
 }
 
