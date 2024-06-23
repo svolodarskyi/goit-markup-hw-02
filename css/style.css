@@ -13,10 +13,6 @@ ol {
     list-style-type: none;
 }
 
-a {
-	text-decoration: none;
-}
-
 .logo {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
@@ -57,6 +53,7 @@ a {
 
 
 .contacts {
+    text-decoration: none;
     font-style: normal;
     color: #434455;
 }
@@ -121,15 +118,15 @@ a {
     letter-spacing: 0.02em;
 }
 
-.our-team{
+.team{
     background-color: #F4F4FD;
 }
 
-.our-team ul>li{
+.team-item{
     background-color: #FFFFFF;
 }
 
-.our-team-header, .our-portfolio-header{
+.team-header, .portfolio-header{
     font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
@@ -139,7 +136,7 @@ a {
     text-transform: capitalize;
 }
 
-.our-team-member-header{
+.team-member-header{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
