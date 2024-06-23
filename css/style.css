@@ -34,6 +34,25 @@ ol {
     color: #2E2F42;
 }
 
+.menu-items{
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
+}
+
+.menu-items:hover{
+    color: #404BBF
+}
+
+.menu-items:active{
+    color: #404BBF;
+    text-decoration: underline;
+}
+
+
 .contacts .contacts-link{
     text-decoration: none;
     font-style: normal;
