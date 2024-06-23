@@ -44,12 +44,11 @@ ol {
 }
 
 .menu-item:hover{
-    color: #404BBF
+    color: #404bbf;
 }
 
-.menu-item:active{
+.menu-item:focus{
     color: #404BBF;
-    text-decoration: underline;
 }
 
 
