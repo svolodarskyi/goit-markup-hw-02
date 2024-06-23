@@ -43,11 +43,11 @@ ol {
     color: #2E2F42;
 }
 
-.menu-items:hover{
+.menu-item:hover{
     color: #404BBF
 }
 
-.menu-items:active{
+.menu-item:active{
     color: #404BBF;
     text-decoration: underline;
 }
@@ -140,6 +140,14 @@ ol {
     letter-spacing: 0.02em;
     text-align: center;
     color: #2E2F42;
+}
+
+.our-team ul>li {
+    background-color: #FFFFFF;
+}
+
+.portfolio-list{
+    background-color: #FFFFFF;
 }
 
 .footer{
